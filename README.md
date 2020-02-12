@@ -25,3 +25,20 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+
+#### Home Page
+!["Screenshot of home page"](https://github.com/lealinin/jungle-rails/blob/master/docs/1.%20Home-Page.png)
+
+#### Cart with Product
+!["Screenshot of cart with one product"](https://github.com/lealinin/jungle-rails/blob/master/docs/2.%20My-Cart.png)
+
+#### Placed Order
+!["Screenshot of placed order and confirmation"](https://github.com/lealinin/jungle-rails/blob/master/docs/3.%20Order.png)
+
+#### Empty Cart Message
+!["Screenshot of cart page when cart is empty"](https://github.com/lealinin/jungle-rails/blob/master/docs/4.%20Empty-Cart.png)
+
+### Admin Page with All Products
+!["Screenshot of admin page"](https://github.com/lealinin/jungle-rails/blob/master/docs/5.%20Admin-Page.png)
