@@ -40,5 +40,5 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 #### Empty Cart Message
 !["Screenshot of cart page when cart is empty"](https://github.com/lealinin/jungle-rails/blob/master/docs/4.%20Empty-Cart.png)
 
-### New Category Admin Page
+#### New Category Admin Page
 !["Screenshot of new category admin page"](https://github.com/lealinin/jungle-rails/blob/master/docs/6.%20New-Category.png)
